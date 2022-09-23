@@ -1,0 +1,2 @@
+# dailyhoroscope
+For personal use
